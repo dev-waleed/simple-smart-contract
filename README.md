@@ -1,5 +1,5 @@
 # Simplest Smart Contract
-A basic smart contract deployed on Ganache Development Ethereum Blockchain using Truffle.<br>
+A basic smart contract deployed on Ganache Development Blockchain using Truffle.<br>
 To compile use:<br>
 `truffle compile` it will generate a build folder with the compiled contract data.
 
